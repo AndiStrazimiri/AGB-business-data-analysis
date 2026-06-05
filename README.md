@@ -22,3 +22,31 @@ Technologies Used
 
 •	SciPy & Statsmodels (Statistical testing and regression)
 
+
+### Research Visualizations
+
+**Correlation Matrix**
+![Correlation Matrix](Screenshot 2026-06-05 183417.png)
+
+**Statistical Analysis Results**
+![T-test Results](Screenshot 2026-06-05 183332.png)
+
+**Box Plot: IT Adoption**
+![Box Plot](Screenshot 2026-06-05 183358.png)
+
+**Histogram: Turnover Distribution**
+![Histogram](Screenshot 2026-06-05 183408.png)
+
+### Research Visualizations
+
+**Correlation Matrix**
+![Correlation Matrix](Screenshot 2026-06-05 183417.png)
+
+**Statistical Analysis Results**
+![T-test Results](Screenshot 2026-06-05 183332.png)
+
+**Box Plot: IT Adoption**
+![Box Plot](Screenshot 2026-06-05 183358.png)
+
+**Histogram: Turnover Distribution**
+![Histogram](Screenshot 2026-06-05 183408.png)
