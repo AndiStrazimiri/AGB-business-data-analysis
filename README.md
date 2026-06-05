@@ -27,26 +27,25 @@ Technologies Used
 ### Research Visualizations
 
 **Correlation Matrix**
-![Correlation Matrix](Screenshot 2026-06-05 183417.png)
+![Correlation Matrix](analysis-screenshots/Screenshot 2026-06-05 183417.png)
 
 **Statistical Analysis Results**
-![T-test Results](Screenshot 2026-06-05 183332.png)
+![T-test Results](analysis-screenshots/Screenshot 2026-06-05 183332.png)
 
 **Box Plot: IT Adoption**
-![Box Plot](Screenshot 2026-06-05 183358.png)
+![Box Plot](analysis-screenshots/Screenshot 2026-06-05 183358.png)
 
 **Histogram: Turnover Distribution**
-![Histogram](Screenshot 2026-06-05 183408.png)
+![Histogram](analysis-screenshots/Screenshot 2026-06-05 183408.png)
 
 **Regression Analysis Scatter Plot**
-![Regression Analysis](Screenshot 2026-06-05 183442.png)
+![Regression Analysis](analysis-screenshots/Screenshot 2026-06-05 183442.png)
 
 **Regression Analysis Scatter Plot (Secondary)**
-![Regression Visualization](Screenshot 2026-06-05 183450.png)
+![Regression Visualization](analysis-screenshots/Screenshot 2026-06-05 183450.png)
 
 **OLS Regression Results Summary**
-![OLS Regression Results](Screenshot 2026-06-05 183459.png)
+![OLS Regression Results](analysis-screenshots/Screenshot 2026-06-05 183459.png)
 
 **Pairplot Analysis**
-![Pairplot](Screenshot 2026-06-05 183508.png)
-
+![Pairplot](analysis-screenshots/Screenshot 2026-06-05 183508.png)
